@@ -1,0 +1,1 @@
+fatal: --merge without MERGE_HEAD?
